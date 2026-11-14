@@ -1,0 +1,6 @@
+{
+  "name": "Agronomic Comparison Simulator: Foliar vs. Sub-Surface Injection",
+  "description": "An advanced, unskewed scientific application modeling Cyperus rotundus control efficacy comparing foliar spray to sub-surface basal injection based on empirical weed science equations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
